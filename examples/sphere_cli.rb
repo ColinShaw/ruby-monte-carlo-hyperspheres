@@ -1,4 +1,4 @@
-# First argument is dimentions, second is iterations
+# First argument is dimensions, second is iterations
 
 require '../src/hypersphere_montecarlo.rb'
 
